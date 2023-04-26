@@ -1,0 +1,26 @@
+body{
+    background-color: #000000;
+    color: white;
+}
+.TITEL{
+    color: black;
+}
+p{
+    color: rgb(122, 0, 209);
+    text-align: justify;
+    margin: 25px;
+}
+.p1{ color: rgb(47, 2, 68);
+   
+}
+#p2{
+    color: rgb(24, 0, 46);
+    
+}
+.Lalaland{
+      margin-left:auto;
+      margin-right:auto;
+      width:900px;
+      background-color:limegreen;
+      
+}
