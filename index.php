@@ -8,7 +8,6 @@
     <body>
             <header class="Lalaland Titel">
                 <h1>Welcome to the mato</h1>
-                <h2>TO NERVOUS</h2>
                 <h3>Imagine se eu tivesse uma arma de verdade</h3>
             </header>
                 <div class="Lalaland">
