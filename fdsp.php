@@ -13,17 +13,19 @@
    </h2>
 
    <div class="espaço2"></div>
-   <div class="esp"><img src="SRC/img/fb.jpg" alt="Facebook Icon">
-      <img src="SRC/img/wpp.jpg" alt="Whatsapp Icon">
-      <img src="SRC/img/tt.jpg" alt="Twitter Icon">
-      <img src="SRC/img/xet.jpg" alt="Chat Icon">
+   <div class="esp">
+      <a href="#FB"><img src="SRC/img/fb.jpg" alt="Facebook Icon"></a>
+      <a href="#WPP"><img src="SRC/img/wpp.jpg" alt="Whatsapp Icon"></a>
+      <a href="#TT"><img src="SRC/img/tt.jpg" alt="Twitter Icon"></a>
+      <a href="#XET"><img src="SRC/img/xet.jpg" alt="Chat Icon"></a>
    </div>
    <div class="espaço1"></div>
 
    <p><span class="bold"> BRASÍLIA </span>Você também pode digitar uma palavra-chave para pesquisar online o vídeo mais
       adequado ao seu documento.
       Para dar ao documento uma aparência profissional, o Word fornece designs de cabeçalho, rodapé,
-      folha de rosto e caixa de texto que se complementam entre si. >:( &nbsp;<a href="#Bliss">Telegram</a></p>
+      folha de rosto e caixa de texto que se complementam entre si. >:( &nbsp;<a href="#Bliss">Telegram</a>
+   </p>
    <p>Você também pode digitar uma palavra-chave para pesquisar online o vídeo mais adequado ao seu documento.
       Para dar ao documento uma aparência profissional,
       o Word fornece designs de cabeçalho, rodapé, folha de rosto e caixa de texto que se complementam entre si.</p>
