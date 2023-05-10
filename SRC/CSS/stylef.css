@@ -39,7 +39,9 @@ body{
     background-color: peru;
     font-size: 16px;
  }
-
+input[type ="button"]{
+   cursor:pointer;
+}
  input[type="submit"] {
     background-color: peru;
     color: purple;
@@ -71,21 +73,12 @@ body{
  }
 
  input[type="range"]{
-    height: 30px;
-    width: 30px;
-    border-radius: 50%;
-    background-color: purple;
-    cursor: pointer;
- }
-
- input[type="range"] {
-    height: 10px;
-    background-color: purple;
-    border-radius: 20px;
- }
-
- input[type="range"]:focus {
-    outline: none;
+      height: 30px;
+      width: 30px;
+      border-radius: 50%;
+      background-color: purple;
+      cursor: pointer;
+      outline: none;
  }
 
  input[type="range"] {

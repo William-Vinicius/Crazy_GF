@@ -26,10 +26,15 @@
                     <br>
                     <textarea cols="30" rows="5"></textarea>
                     <input type="range" value="ARREGAÇA"/>
+                    
+                    <!-- Botão para mudar de cor Usando a função criada em script.js-->
+                    <input type = "button" value="Tritanomalia" onclick="daltonico()">
+
                     <input type="submit" value="Entregar">
                 </div>
             </form> 
         </div>    
+        <script src="SRC/js/script.js"></script>
     </body>
 
 
